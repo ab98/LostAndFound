@@ -7,6 +7,11 @@
 
             android:title="Sign in" />
         <item
+            android:id="@+id/signUpItem"
+
+            android:title="Sign up" />
+
+        <item
             android:id="@+id/lostFoundItem"
 
             android:title="Lost and found" />
